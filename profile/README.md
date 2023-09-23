@@ -30,4 +30,4 @@ Sheet for problem solving: https://takeuforward.org/strivers-a2z-dsa-course/stri
 
 Start of project:24/09/2023 (12:01 am(night)) ------------------------ 50 days---------------------End of project:13/11/2023(11:59 pm(night))
 
-All the best everyone,please try to do original work so that it can prove your problem solving skills.
+All the best everyone,please try to do original work so that it can improve your problem solving skills.
