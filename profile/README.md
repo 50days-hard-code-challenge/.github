@@ -8,7 +8,7 @@ Rules apply to each and every member including admin:
 
 2.Every member has to create two files in day wise repository with syntax:
 
-     <member_name>1.<fileextension>  and <member_name>2.<fileextension>
+     <member_name>1(program name).<fileextension>  and <member_name>2(program name).<fileextension>
 
 3.Coding language can be any:C/C++/JAVA/PYTHON.
 
